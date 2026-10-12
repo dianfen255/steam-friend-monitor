@@ -1,0 +1,9 @@
+# Steam 好友视奸器 —— 依赖清单
+# 安装：pip install -r requirements.txt
+
+requests>=2.25.0      # Steam Web API 请求
+pystray>=0.19.0       # 系统托盘图标
+Pillow>=9.0.0         # 托盘图标绘制
+
+# 说明：tkinter 是 Python 标准库自带（Windows 官方安装包默认包含），无需 pip 安装。
+# 如果 import tkinter 报错，请重新运行 Python 安装程序并勾选 "tcl/tk and IDLE"。
