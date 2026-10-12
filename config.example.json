@@ -1,0 +1,7 @@
+{
+    "API_KEY": "YOUR_API_KEY_HERE",
+    "STEAM_ID": "YOUR_STEAM_ID_HERE",
+    "REFRESH_INTERVAL": 60,
+    "CLOSE_ACTION": "tray",
+    "LANG": "zh"
+}
