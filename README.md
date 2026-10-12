@@ -283,6 +283,5 @@ A：默认 60 秒。Steam Web API 有调用频率限制，不建议低于 30 秒
 
 ---
 
-## 致谢
-
-灵感与部分思路参考了社区的同类项目，尤其是 [misiektoja/steam_monitor](https://github.com/misiektoja/steam_monitor)（功能完善的开源 Steam 活动监控工具）。
+社区内有的同类项目 [misiektoja/steam_monitor](https://github.com/misiektoja/steam_monitor)
+灵感其实是来自小黑盒啊 这东西也是通过api调用steam数据 但是没有记录功能 就想搞一个带记录的  因为我在这个版本做好准备上传前问过deepseek站内有没有类似的设计 所以她会以为我有参考站内的设计 但其实是个人想法加上deepseek编程开发的
