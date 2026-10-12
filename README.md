@@ -1,3 +1,4 @@
+以下内容都是deepseek写的 我人工初审修改了一下 依旧可能存在有问题的描述
 # Steam 好友视奸器 / Steam Friend Monitor
 
 > 一个带图形界面和系统托盘的 Steam 好友活动监控工具。
